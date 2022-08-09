@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/background_main.xml" value="0.135" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/btn_view.xml" value="0.135" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/edit_text_box.xml" value="0.135" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/ic_action_account_circle_40.xml" value="0.1465" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.135" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/ic_lock.xml" value="0.135" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/ic_name.xml" value="0.135" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/drawable/ic_phone.xml" value="0.135" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_add_notices.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_adminpanel.xml" value="0.22" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_details_notice.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_final_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_item.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_main.xml" value="0.13" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/activity_userview.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/row_model.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Ritesh/AndroidStudioProjects/noticeboardproject/app/src/main/res/layout/toolbar.xml" value="0.20102564102564102" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

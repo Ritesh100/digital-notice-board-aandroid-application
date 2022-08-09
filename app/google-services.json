@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980282672632",
+    "project_id": "noticeboardproject-dc661",
+    "storage_bucket": "noticeboardproject-dc661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980282672632:android:e6618ed43d0b7bb1f8420d",
+        "android_client_info": {
+          "package_name": "com.example.noticeboardproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980282672632-2n64jon800d91t6b7rfalvjf9u4sl085.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD0FajDyQ_PIxUTSS8vbkObp-JcCfYCMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980282672632-2n64jon800d91t6b7rfalvjf9u4sl085.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
